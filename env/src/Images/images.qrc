@@ -1,0 +1,47 @@
+<RCC>
+  <qresource prefix="logos">
+    <file>logo.png</file>
+    <file>logo.ico</file>
+  </qresource>
+  <qresource prefix="menu">
+    <file>ojo.png</file>
+    <file>menuiconBLACK.png</file>
+    <file>home2.png</file>
+    <file>home.png</file>
+    <file>LogoLogin.png</file>
+    <file>logonegro.png</file>
+    <file>ClientesHover.png</file>
+    <file>EmpleadosHover.png</file>
+    <file>EntrenadoresHover.png</file>
+    <file>PuntoVentaHover.png</file>
+    <file>logout.png</file>
+    <file>logouthover.png</file>
+    <file>relojhover.png</file>
+    <file>adorno.png</file>
+    <file>flechaIcon.png</file>
+    <file>InventarioIcon.png</file>
+    <file>ordenIcon.png</file>
+    <file>ReporteIcon.png</file>
+    <file>ventaIcon.png</file>
+    <file>clientes.png</file>
+    <file>empleados.png</file>
+    <file>entrenador.png</file>
+    <file>reloj.png</file>
+    <file>venta.png</file>
+    <file>menuicon2.png</file>
+    <file>menuIcon.png</file>
+  </qresource>
+  <qresource prefix="prefijoNuevo">
+    <file>flecha2Hover.png</file>
+    <file>FlechaHover.png</file>
+    <file>Flecha.png</file>
+    <file>flecha2.png</file>
+  </qresource>
+  <qresource prefix="MenuCliente">
+    <file>ActualizarInfo.png</file>
+    <file>MenuCliente (1).png</file>
+    <file>MenuCliente (2).png</file>
+    <file>MenuCliente (3).png</file>
+    <file>MenuCliente (4).png</file>
+  </qresource>
+</RCC>

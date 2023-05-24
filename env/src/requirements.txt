@@ -1,0 +1,5 @@
+opencv-python==4.7.0.72
+psycopg2==2.9.6   
+PyQt5==5.15.9 
+python-decouple==3.8     
+python-dotenv==1.0.0
